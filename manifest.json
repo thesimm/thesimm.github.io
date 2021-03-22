@@ -1,11 +1,11 @@
 {
-    "name": "flutter_app",
-    "short_name": "flutter_app",
+    "name": "diabetes_demo",
+    "short_name": "diabetes_demo",
     "start_url": "index.html",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Diabetes Demo App.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
